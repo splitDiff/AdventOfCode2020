@@ -14,13 +14,13 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 | Day  | Part One | Part Two | 
 |---|:---:|:---:|
-| ✔ [Day 1: Report Repair]()| 🌟 | 🌟 |
-| ✔ [Day 2: Password Philosophy]()| 🌟 | 🌟 |
-| ✔ [Day 3: Toboggan Trajectory]()| 🌟 | 🌟 |
-| ✔ [Day 4: Passport Processing]()| 🌟 | 🌟 |
-| ✔ [Day 5: Binary Boarding]()| 🌟 | 🌟 |
-| ✔ [Day 6: Custom Customs]()| 🌟 | 🌟 |
-| [Day 7: Handy Haversacks]()| | |
+| ✔ [Day 1: Report Repair](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day01)| 🌟 | 🌟 |
+| ✔ [Day 2: Password Philosophy](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day02)| 🌟 | 🌟 |
+| ✔ [Day 3: Toboggan Trajectory](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day03)| 🌟 | 🌟 |
+| ✔ [Day 4: Passport Processing](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day04)| 🌟 | 🌟 |
+| ✔ [Day 5: Binary Boarding](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day05)| 🌟 | 🌟 |
+| ✔ [Day 6: Custom Customs](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day06)| 🌟 | 🌟 |
+| ✔ [Day 7: Handy Haversacks](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day07)| 🌟 | 🌟 |
 | [Day 8: ]()| | |
 | [Day 9: ]()| | |
 | [Day 10: ]()| | |
