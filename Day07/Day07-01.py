@@ -42,7 +42,7 @@ for rule in rules:
 
 #%%
 # Count Shiny Gold Bags function
-# @functools.lru_cache(maxsize=200)
+@functools.lru_cache(maxsize=200)
 def count_shinys(c_bag):
     total_shinys = 0
     bag_types = set()
