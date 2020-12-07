@@ -1,6 +1,5 @@
 # advent-of-code-2020
-Advent of Code 2020 🎄 Python solutions and attempts by 
-`@splitDiff`
+Advent of Code 2020 - Python solutions and attempts by `@splitDiff`
 
 ## Advent of Code 2020 Story
 After saving Christmas five years in a row, you've decided to take a vacation at a nice resort on a tropical island. Surely, Christmas will go on without you.
@@ -21,23 +20,23 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | ✔ [Day 4: Passport Processing]()| 🌟 | 🌟 |
 | ✔ [Day 5: Binary Boarding]()| 🌟 | 🌟 |
 | ✔ [Day 6: Custom Customs]()| 🌟 | 🌟 |
-| ✔ [Day 7: Handy Haversacks]()| | |
-| [Day 8: TBD]()| | |
-| [Day 9: TBD]()| | |
-| [Day 10: TBD]()| | |
-| [Day 11: TBD]()| | |
-| [Day 12: TBD]()| | |
-| [Day 13: TBD]()| | |
-| [Day 14: TBD]()| | |
-| [Day 15: TBD]()| | |
-| [Day 16: TBD]()| | |
-| [Day 17: TBD]()| | |
-| [Day 18: TBD]()| | |
-| [Day 19: TBD]()| | |
-| [Day 20: TBD]()| | |
-| [Day 21: TBD]()| | |
-| [Day 22: TBD]()| | |
-| [Day 23: TBD]()| | |
-| [Day 24: TBD]()| | |
-| [Day 25: TBD]()| | |
+| [Day 7: Handy Haversacks]()| | |
+| [Day 8: ]()| | |
+| [Day 9: ]()| | |
+| [Day 10: ]()| | |
+| [Day 11: ]()| | |
+| [Day 12: ]()| | |
+| [Day 13: ]()| | |
+| [Day 14: ]()| | |
+| [Day 15: ]()| | |
+| [Day 16: ]()| | |
+| [Day 17: ]()| | |
+| [Day 18: ]()| | |
+| [Day 19: ]()| | |
+| [Day 20: ]()| | |
+| [Day 21: ]()| | |
+| [Day 22: ]()| | |
+| [Day 23: ]()| | |
+| [Day 24: ]()| | |
+| [Day 25: ]()| | |
 
