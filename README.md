@@ -22,7 +22,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | ✔ [Day 6: Custom Customs](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day06)| 🌟 | 🌟 |
 | ✔ [Day 7: Handy Haversacks](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day07)| 🌟 | 🌟 |
 | ✔ [Day 8: Handheld Halting](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day08)| 🌟 | 🌟 |
-| [Day 9: ]()| | |
+| ✔ [Day 9: Encoding Error](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day09)| 🌟 | 🌟 |
 | [Day 10: ]()| | |
 | [Day 11: ]()| | |
 | [Day 12: ]()| | |
