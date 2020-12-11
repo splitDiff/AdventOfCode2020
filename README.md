@@ -24,7 +24,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | ✔ [Day 8: Handheld Halting](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day08)| 🌟 | 🌟 |
 | ✔ [Day 9: Encoding Error](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day09)| 🌟 | 🌟 |
 | ✔ [Day 10: Adapter Array](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day10)| 🌟 | 🌟 |
-| [Day 11: ]()| | |
+| ✔ [Day 11: Seating System](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day11)| 🌟 | 🌟 |
 | [Day 12: ]()| | |
 | [Day 13: ]()| | |
 | [Day 14: ]()| | |
