@@ -26,7 +26,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | ✔ [Day 10: Adapter Array](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day10)| 🌟 | 🌟 |
 | ✔ [Day 11: Seating System](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day11)| 🌟 | 🌟 |
 | ✔ [Day 12: Rain Risk](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day12)| 🌟 | 🌟 |
-| [Day 13: ]()| | |
+| ✔ [Day 13: Shuttle Search](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day13)| 🌟 | 🌟 |
 | [Day 14: ]()| | |
 | [Day 15: ]()| | |
 | [Day 16: ]()| | |
