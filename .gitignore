@@ -4,7 +4,6 @@ __pycache__
 .pytest-cache
 **/*.txt
 util
-Day17
 Day18
 Day19
 Day20

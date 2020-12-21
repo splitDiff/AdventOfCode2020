@@ -30,7 +30,7 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 | ✔ [Day 14: Docking Data](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day14)| 🌟 | 🌟 |
 | ✔ [Day 15: Rambunctious Recitation](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day15)| 🌟 | 🌟 |
 | ✔ [Day 16: Ticket Translation](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day16)| 🌟 | 🌟 |
-| [Day 17: ]()| | |
+| ✔ [Day 17: Conway Cubes](https://github.com/splitDiff/AdventOfCode2020/tree/main/Day17)| 🌟 | 🌟 |
 | [Day 18: ]()| | |
 | [Day 19: ]()| | |
 | [Day 20: ]()| | |
